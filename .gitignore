@@ -1,0 +1,10 @@
+*.project.~u
+*.precompilecache
+*.opt
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+
+_cnc
+PlcLogic
+visu
